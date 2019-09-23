@@ -74,7 +74,7 @@ namespace RestApiTest
         }
 
         [Test]
-        public void linqInAllLinTest()
+        public void linqInAllLineTest()
         {
             //если linqContainsInAllList возвратит true, тест выполнится успешно
             bool e = linqContainsInAllList(GetData());
